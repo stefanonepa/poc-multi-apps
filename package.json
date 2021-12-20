@@ -1,0 +1,21 @@
+{
+  "name": "frontend-multi-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "16.13.1",
+    "yarn": "1.22.17"
+  },
+  "devDependencies": {
+    "http-proxy": "^1.18.1",
+    "http-proxy-rules": "^1.1.3"
+  }
+}
